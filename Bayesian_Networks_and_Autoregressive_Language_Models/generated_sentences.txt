@@ -1,0 +1,57 @@
+FIRST-ORDER: 20 SAMPLED SENTENCES
+1. the cat ran to the park
+2. the dog ran to the cat ran to the cat sat on the park
+3. the cat sat on the cat sat on the park
+4. the dog sat on the rug
+5. the cat ran to the cat ran to the dog sat on the rug
+6. the cat sat on the rug
+7. the park
+8. the cat ran to the cat sat on the mat
+9. the dog ran to the dog sat on the cat sat on the cat ran to the dog ran to the mat
+10. the cat sat on the dog sat on the dog sat on the mat
+11. the rug
+12. the mat
+13. the mat
+14. the cat ran to the rug
+15. the cat sat on the dog ran to the cat sat on the rug
+16. the mat
+17. the dog sat on the mat
+18. the dog sat on the cat sat on the rug
+19. the park
+20. the rug
+
+FIRST-ORDER: FIVE GREEDY SENTENCES
+1. the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat <TRUNCATED: NO END TOKEN>
+2. the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat <TRUNCATED: NO END TOKEN>
+3. the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat <TRUNCATED: NO END TOKEN>
+4. the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat <TRUNCATED: NO END TOKEN>
+5. the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat sat on the cat <TRUNCATED: NO END TOKEN>
+
+FIRST-ORDER: FIVE NEW SAMPLED SENTENCES
+1. the dog sat on the dog sat on the dog ran to the dog ran to the cat ran to the rug
+2. the cat sat on the mat
+3. the mat
+4. the dog sat on the cat sat on the rug
+5. the rug
+
+SECOND-ORDER: 20 SAMPLED SENTENCES
+1. the cat sat on the mat
+2. the cat ran to the park
+3. the dog sat on the rug
+4. the dog sat on the rug
+5. the cat sat on the mat
+6. the dog sat on the mat
+7. the cat sat on the rug
+8. the dog sat on the rug
+9. the dog ran to the park
+10. the cat sat on the mat
+11. the dog sat on the mat
+12. the dog ran to the park
+13. the dog sat on the mat
+14. the cat ran to the park
+15. the cat ran to the park
+16. the dog ran to the park
+17. the dog sat on the rug
+18. the cat ran to the park
+19. the cat sat on the rug
+20. the cat ran to the park
